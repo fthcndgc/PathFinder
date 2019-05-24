@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "435134121554",
+    "firebase_url": "https://pathfinder-755e7.firebaseio.com",
+    "project_id": "pathfinder-755e7",
+    "storage_bucket": "pathfinder-755e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435134121554:android:11eb2b1ac012c19e",
+        "android_client_info": {
+          "package_name": "com.yuncan.pathfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435134121554-n73kdmc23ri3alt1ek52r9pek640cjph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yuncan.pathfinder",
+            "certificate_hash": "1ceb23683b49e0ee8a3293aeee5a3af9f5084a3b"
+          }
+        },
+        {
+          "client_id": "435134121554-71m22cimg0de13qg4slsrstqphaf4abr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4JwoiZCJxN0inZ8Jphxl86236pK4ZEUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435134121554-71m22cimg0de13qg4slsrstqphaf4abr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
